@@ -1,0 +1,50 @@
+{
+  "allVideos": [
+    {
+      "caption": "Kids",
+      "url": "https://www.youtube.com/embed/1h4K2UCek_s?si=OPAGAMCUX1OL7ZmK&autoplay=1",
+      "image": "https://i.ytimg.com/vi/1h4K2UCek_s/maxresdefault.jpg",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "name": "Music",
+      "videos": [
+        {
+          "caption": "Kids",
+          "url": "https://www.youtube.com/embed/1h4K2UCek_s?si=OPAGAMCUX1OL7ZmK&autoplay=1",
+          "image": "https://i.ytimg.com/vi/1h4K2UCek_s/maxresdefault.jpg",
+          "id": 3
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Dune 2",
+      "url": "https://www.youtube.com/embed/U2Qp5pL3ovA?si=OPAGAMCUX1OL7ZmK&autoplay=1",
+      "datetime": "2024-03-12T06:36:23.091Z",
+      "id": 1
+    },
+    {
+      "caption": "Dune 2",
+      "url": "https://www.youtube.com/embed/U2Qp5pL3ovA?si=OPAGAMCUX1OL7ZmK&autoplay=1",
+      "datetime": "2024-03-13T04:13:08.368Z",
+      "id": 2
+    },
+    {
+      "caption": "kids",
+      "url": "https://www.youtube.com/embed/Y56lpXvXbs0?si=OPAGAMCUX1OL7ZmK&autoplay=1",
+      "datetime": "2024-03-13T05:40:32.246Z",
+      "id": 3
+    },
+    {
+      "caption": "Midsommar",
+      "url": "https://www.youtube.com/embed/1Vnghdsjmd0?si=OPAGAMCUX1OL7ZmK&autoplay=1",
+      "datetime": "2024-03-14T05:12:13.205Z",
+      "id": 4
+    }
+  ]
+}
